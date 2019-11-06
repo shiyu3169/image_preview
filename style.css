@@ -5,6 +5,10 @@ main {
   text-align: center;
 }
 
+#path {
+  margin: 1rem 0;
+}
+
 #upload {
   display: inline-flex;
   align-items: center;
