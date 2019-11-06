@@ -1,0 +1,16 @@
+body {
+  padding: 1rem 0;
+}
+main {
+  text-align: center;
+}
+
+#upload {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px dashed black;
+  height: 200px;
+  width: 800px;
+  margin: 1rem 0;
+}
